@@ -1,0 +1,15 @@
+{
+  "name": "AI Act Risk Console",
+  "short_name": "AI Act Risk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f1",
+  "theme_color": "#11261c",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
